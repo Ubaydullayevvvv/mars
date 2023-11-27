@@ -1,0 +1,64 @@
+.box{
+    height: 460px;
+    width: 640px;
+    background-color: aqua;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.box div{
+    background-image: url('/img/cave.svg');
+    height: 100px;
+    width: 200px;
+}
+
+.box div{
+    background-image: url('/img/classic1.svg');
+    height: 100px;
+    width: 200px;
+}
+
+.box div{
+    background-image: url('/img/classic2.svg');
+    height: 100px;
+    width: 200px;
+}
+
+.box div{
+    background-image: url('/img/classic3.svg');
+    height: 100px;
+    width: 200px;
+}
+.box div{
+    background-image: url('/img/futuristic_city_noplanet.svg');
+    height: 100px;
+    width: 200px;
+}
+.box div{
+    background-image: url('/img/horror_nomoon.svg');
+    height: 100px;
+    width: 200px;
+}
+.box div{
+    background-image: url('/img/japan\ 1.svg');
+    height: 100px;
+    width: 200px;
+}
+.box div{
+    background-image: url('/img/medieval_city.svg');
+    height: 100px;
+    width: 200px;
+}
+
+.box div{
+    background-image: url('/img/snow\ 1.svg');
+    height: 100px;
+    width: 200px;
+}
+
+.box div{
+    background-image: url('/img/undersea.svg');
+    height: 100px;
+    width: 200px;
+}
